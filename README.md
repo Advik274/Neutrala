@@ -8,7 +8,7 @@ This project aims to provide tools for individuals and organizations to track th
 ## Getting Started
 To get started with Neutrala, follow these steps:
 1. Clone the repository
-2. Install dependencies
-3. Run the application
+2. Install dependencies (`npm install` or equivalent)
+3. Run the application (`npm start` or equivalent)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.
