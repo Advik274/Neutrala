@@ -12,3 +12,5 @@ To get started with Neutrala, follow these steps:
 3. Run the application (`npm start` or equivalent)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.
+
+> **Note:** Ensure Node.js is installed before running `npm install` and `npm start`.
